@@ -1,4 +1,3 @@
-# File: .github/workflows/demoazcli.yml
 name: Demo azure/cli action
 
 on: workflow_dispatch:
